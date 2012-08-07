@@ -51,10 +51,10 @@ Krang: TMNT boss
 Joel Hodgson: 1988-1993 star of Mystery Science Theater 3000
 Joel Rifkin: Serial killer
 Joel Spolsky: Joel on Software
+Joshua Topolsky: The Verge, Engadget
 Joe DiMaggio: Football player husband of Marilyn Monroe
 John DiMaggio: Bender, Marcus Feanix
 John Hinckley Jr.: Failed Reagan assassin
-Not to be confused with Mark David Chapman
 John Hughes: Breakfast Club director
 John Holmes: Porn star (dead)
 John Hawkes: Me And You And Everyone We Know
@@ -81,9 +81,11 @@ Larry Bird: Basketball player
 Larry Hyrb: Xbox Live's Major Nelson
 Tony Hawk: Pro Skater
 Tony Hale: Buster in Arrested Development
+Tony Todd: The Candyman
 Tony Curtis: Oscar-nominated star of The Defiant Ones
 Tony Stewart: NASCAR driver
 Rod Stewart: Scottish blues-rocker
+Sweeny Todd: Demon Barber of Fleet Street
 John Hurt: Kane in Alien, Professor Bruttenholm
 William Hurt: Altered States
 Dave Grossman: Lead designer at Telltale Games
@@ -170,7 +172,6 @@ Mike Haggar: One of original three protagonists from the Final Fight games
 Piston Honda: Punch-Out
 E. Honda: Street Fighter
 Mark David Chapman: shot John Lennon
-Not to be confused with John Hinckley Jr.
 Mark William Hoffman: LDS-bashing forger who killed people
 Mark Spits: Swimmer, holder of Olympic gold record until Michael Phelps
 Michael York: Basil Exposition
@@ -268,7 +269,7 @@ Hedley Lamarr: Blazing Saddles villain
 Olivia Hussey: Zeffirelli's Juliet
 Olivia Williams: Adelle DeWitt on Dollhouse
 Olivia Colman: Pam Bachelor, Sophie Chapman
-Olidia Wilde: Quorra
+Olivia Wilde: Quorra
 Ingrid Bergman: Ilsa in Casablanca
 Ingmar Bergman: Swedish director of The Seventh Seal and Autumn Sonata (starring Ingrid Bergman)
 Sarah Michelle Gellar: Buffy
@@ -284,7 +285,6 @@ Billy Joel: Piano Man
 Harry Connick Jr.: Piano philanthropist
 Richard Harris: King Arthur in Camelot, Dumbledore in first 2 Harry Potters
 Patrick Stewart: Captain Jean-Luc Picard, Professor X
-Brent Spiner: Commander Data
 Jonathan Frakes: Commander William Riker
 Jonathan Pryce: Brazil, Tomorrow Never Dies
 Ian McKellen: Gandalf, Magneto
@@ -299,7 +299,7 @@ Chuck Jones: Termite Terrace animator
 Barry Lyndon: 1975 Stanley Kubrick film about 18th century Irish lord
 Barton Fink: 1991 Coen Brothers film set in 1941 Hollywood
 Donnie Brasco: 1997 movie about infiltrating the mob
-Richard Hammond: Top Gear
+Richard Hammond: Short guy on Top Gear
 David Tennant: 10th Doctor
 Christopher Eccleston: 9th Doctor
 John Simm: Sam Tyler on Life on Mars, The Master
@@ -325,7 +325,6 @@ Flowers for Algernon: short story about going dumb->smart->dumb
 Harrison Bergeron: short story by Vonnegut
 Tom Bergeron: Hollywood Squares
 Agamemnon: Brother of Menelaus
-Richard Gizbert: Al Jazeera's Listening Post
 Garrison Keillor: A Prarie Home Companion host
 Harlan Ellison: The Glass Teat science fiction author
 Ray Bradbury: Fahrenheit 451 author
