@@ -1439,6 +1439,18 @@
     "body":"Actor who stars in Judd Apatow movies",
     "links":[]
   },{
+    "name":"Seth Rogen",
+    "body":"Knocked Up",
+    "links":[]
+  },{
+    "name":"Seth Godin",
+    "body":"Yoyodyne founder, Fast Company columnist",
+    "links":[]
+  },{
+    "name":"Seth Green",
+    "body":"Scott Evil, Robot Chicken, Oz on Buffy the Vampire Slayer",
+    "links":[]
+  },{
     "name":"Judd Apatow",
     "body":"Director of Freaks and Geeks",
     "links":[]
@@ -1448,15 +1460,7 @@
     "links":[]
   },{
     "name":"Vignette",
-    "body":"",
-    "links":[]
-  },{
-    "name":"Photography",
-    "body":"Shading around edge",
-    "links":[]
-  },{
-    "name":"Books",
-    "body":"design separating chapters",
+    "body":"design separating chapters (books), shading around edge (photography)",
     "links":[]
   },{
     "name":"Vinagrette",
@@ -1472,7 +1476,7 @@
     "links":[]
   },{
     "name":"Bob Odenkirk",
-    "body":"Mr. Show",
+    "body":"Saul Goodman on Breaking Bad",
     "links":[]
   },{
     "name":"Steve Albini",
@@ -1489,6 +1493,10 @@
   },{
     "name":"David Blaine",
     "body":"Magician",
+    "links":[]
+  },{
+    "name":"David Copperfield",
+    "body":"Charles Dickens book",
     "links":[]
   },{
     "name":"David Wain",
